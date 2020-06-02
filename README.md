@@ -10,14 +10,14 @@ Proiect Data Engineering - GooglePlayStore data set
 Data engineering principles applied on dataset from https://www.kaggle.com/lava18/google-play-store-apps.
 
 ### Authors:
-Benchia Madalin Codrin - 406 IS
-Coteanu Sebastian - 406 IS
-Coteanu Vlad - 406 IS
-Dimisca Cosmin - 406 IS
-Ghinea Alexandru Stefan - 407 IA
-Giosanu Andrei - 406 IS
-Nedelea Cosmin Daniel - 507 IA
-Petrescu Ana-Maria - 406 IS
+1. Benchia Madalin Codrin - 406 IS
+2. Coteanu Sebastian - 406 IS
+3. Coteanu Vlad - 406 IS
+4. Dimisca Cosmin - 406 IS
+5. Ghinea Alexandru Stefan - 407 IA
+6. Giosanu Andrei - 406 IS
+7. Nedelea Cosmin Daniel - 507 IA
+8. Petrescu Ana-Maria - 406 IS
 
 ### Keywords
 RandomForestClassifier, SparkStreaming, DataEngineering
